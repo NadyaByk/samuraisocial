@@ -7,6 +7,7 @@ function App() {
             <Header/>
             <main>
             </main>
+            <span>hello</span>
         </div>
     )
 }
